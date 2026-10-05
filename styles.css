@@ -1,0 +1,41 @@
+header {
+    background-image: url('images/Seattle_Center_as_night_falls.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 1rem;
+}
+
+ul li {
+    list-style-type: square;
+}
+
+h1, h2, h3{
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.highlight {
+    color: aliceblue;
+    font-style: italic;
+    font-size: 1.1rem;
+}
+
+p, ul li, figcaption {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+} 
+
+footer p {
+    font-size: 0.6rem;
+    text-align: center;
+    font-style: italic;
+}
